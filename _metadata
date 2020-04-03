@@ -1,0 +1,10 @@
+{
+  "version" : "0.0.1",
+  "author" : "Shiroi Okami",
+  "description" : "Adds social and romance between player and npc.",
+  "name" : "Social Bound",
+  "priority" : -50,
+  "friendlyName" : "socialNpcoInteraction",
+  "steamContentId" : "",
+  "link" : ""
+}
