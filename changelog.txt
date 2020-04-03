@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1.0.0: 	Initial release.
 
 2.0.0: 	Updated to Sexbound version 2.6.x
+=======
+1.0.0: 	Initial release.
+
+2.0.0: 	Updated to Sexbound version 2.6.x
+>>>>>>> 126266d32978e32a112f3506973c52ef7154e6c0
 	Added new position regarding to the new release such as butterfly, felatio and missionary.
