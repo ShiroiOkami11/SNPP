@@ -18,4 +18,4 @@
 
 - Due to my personal reasons that i can't trust scyter team, sorry but no... *Well, said that, this mod can't be added or included to Frakin Universe(FU) modpack(yes modpack change my mind... :P) folder for any reasons, besides it should work with FU.*
 
-- This mod however can be used in other modpacks at will. *If you put the author name in the credits in the modpack folder in a .csv file or a .doc.*
+- This mod however can be used in other modpacks at will. *If you put the author name in the credits in the modpack folder in a .csv file or a .doc(Let's avoid content stealing like what we had a few years ago, please).*
