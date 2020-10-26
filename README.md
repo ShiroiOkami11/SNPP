@@ -17,6 +17,7 @@
 - The second reason, is that i have a dream to see the modding community of Starbound grow, and maybe one day, be like Skyrim or Rimworld modding commuities, with such great variety of mods, that not only change or add new funiture, itens, armor, weapons but alter the gameplay mechanics from starbound and transform it. Example: Save our ship 2 from the Rimworld mod community that let's you have space ship battles and even go to other planet(Despite killing your collonist in the process to allow the others to go to another planet and thi planet havinf the same or random settings created by rimworld, but hey, mods and games aren't perfect...) or even so Rimcities that include cities to the game or even better examples like these
 
 # Copyright and destribution
+- All the Rights belongs to ShiroiOkami11 and the "Glitch team" formed just by me.
 
 - Due to my personal reasons i can't trust scyter team... *Well, said that, this mod can't be added or included to Frakin Universe(FU) modpack(yes modpack change my mind... :P) folder for any reasons, besides it should work with FU.*
 
