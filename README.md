@@ -8,7 +8,7 @@
 
 - You will be chased the race if you take itens broke blocks and harm them. Your base will be raided(the idea is that lol)
 
-- This mod is compatible with Sexbound(And not this mod does not add sex... Stop thinking (uh he's making the mod compatible with a sex mod so he's a degenerate that included sex on his mod or something) like a extremist... It's "just" NPC relations via text and some "actions" using Starbound mechanics...
+- This mod is compatible with Sexbound, and no, this mod does not add sex! Stop thinking (uh he's making the mod compatible with a sex mod so he's a degenerate that included sex on his mod or something) like a extremist... It's "just" NPC relations via text and some "actions" using Starbound mechanics...
 
 # Why did i created this mod??
 
