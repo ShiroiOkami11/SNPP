@@ -8,7 +8,7 @@
 
 - You will be chased the race if you take itens broke blocks and harm them. Your base will be raided(the idea is that lol)
 
-- This mod is compatible with Sexbound(And not this mod does not add sex... Stop being a "uh he's makig the mod compatible with a sexod so he's a degenerate that included sex on his mod or something" NO and i say NO this mod is family friendly only and does not have sex just pregnancy. Yes you will be allowed to have a family(If you want one) NO! Again NO! there will be no sex animations, or anything kinky or lewd here, they will pop with a teleport when born ok?
+- This mod is compatible with Sexbound(And not this mod does not add sex... Stop being a "uh he's making the mod compatible with a sex mod so he's a degenerate that included sex on his mod or something" NO and i say NO this mod is family friendly only and does not have sex, just """pregnancy""" that will be icon on the head of yourself(If you character is a girl of course...) or the npc. Yes you will be allowed to have a family(If you want one) NO! Again NO! there will be no sex animations, or anything kinky or lewd here, they will pop with a teleport when born ok?
 
 # Why did i created this mod??
 
