@@ -16,6 +16,6 @@
 
 # Copyright and destribution
 
-- Due to my personal reasons that i can't trust scyter team *this mod can't be added or included to #Frakin Universe modpack for any reasons besides this should work with FU.
+- Due to my personal reasons that i can't trust scyter team *this mod can't be added or included to #Frakin Universe modpack for any reasons besides this should work with FU.*
 
-- This mod however can be used in other modpacks at will *If you put the author name in the credits in modpack folder in a .csv file or a .doc or anything else.
+- This mod however can be used in other modpacks at will *If you put the author name in the credits in modpack folder in a .csv file or a .doc or anything else.*
