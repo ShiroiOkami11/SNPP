@@ -8,7 +8,8 @@
 
 - You will be chased the race if you take itens broke blocks and harm them. Your base will be raided(the idea is that lol)
 
-- This mod is compatible with Sexbound(And not this mod does not add sex... Stop being a "uh he's makig the mod compatible with a sexod so he's a degenerate that included sex on his mod or something" NO and i say NO this mod is family friendly only and does not have sex just pregnancy. Yes you will be allowed to have a family(If you want one) NO again NO there will be no sex animations or anything new they will pop with a teleport ok?
+- This mod is compatible with Sexbound(And not this mod does not add sex... Stop being a "uh he's makig the mod compatible with a sexod so he's a degenerate that included sex on his mod or something" NO and i say NO this mod is family friendly only and does not have sex just pregnancy. Yes you will be allowed to have a family(If you want one) NO! Again NO! there will be no sex animations, or anything kinky or lewd here, they will pop with a teleport when born ok?
+
 # Why did i created this mod??
 
 - The main reason, is that i always wanted something like this, but the Starbound mod community has a lack of moders in general. Most of the existent moders however, don't attempt to go further anyhing that can try implement the original code logic from Starbound, just adding: itens, armor, races and craftings, but actually, almost anything trying something like changing the NPC and stuff. My objective here is to motivate people to try implement or create these things out, and think a bit out of the box, out of the box and even further right to the moon or even the universe, Despite some obstacles on it that they will or can face... 
