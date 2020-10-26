@@ -10,7 +10,7 @@
 
 - This mod is compatible with Sexbound, and no, this mod does not add sex! Stop thinking (uh he's making the mod compatible with a sex mod so he's a degenerate that included sex on his mod or something) like a extremist... It's "just" NPC relations via text and some "actions" using Starbound mechanics...
 
-# Why did i created this mod??
+# Why did i created this mod?
 
 - The main reason, is that i always wanted something like this, but the Starbound mod community has a lack of moders in general. Most of the existent moders however, don't attempt to go further anyhing that can try implement the original code logic from Starbound, just adding: itens, armor, races and craftings, but actually, almost anything trying something like changing the NPC and stuff. My objective here is to motivate people to try implement or create these things out, and think a bit out of the box, out of the box and even further right to the moon or even the universe, Despite some obstacles on it that they will or can face... 
 
